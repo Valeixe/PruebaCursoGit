@@ -1,3 +1,2 @@
-jmmmdik
-
-dkkkdkkdkiie
+Texto para el archivo1.txt
+HEAD

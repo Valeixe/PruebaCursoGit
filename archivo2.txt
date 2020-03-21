@@ -1,1 +1,1 @@
-Texto para el Archivo2.txt
+Texto para el archivo2.txt
